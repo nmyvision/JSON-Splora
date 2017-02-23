@@ -11,6 +11,7 @@ JSON-Splora-win32-x64
 
 # debug
 npm-debug.log
+debug.log
 
 # caches and tmps
 .npm
